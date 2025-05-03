@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cozma0
 - 👀 I’m interested in Blockchain, Cloud Computing, AI, Stocks, Programming.
-- 🌱 I’m currently learning Electronics and Telecommunications, but I'm learning programming in my free time. 
-- 💞️ I’m looking for an Internship (Software Developer(JAVA)/ DevOps)
+- 🌱 I’m currently working at Garmin Cluj as SRE engineer
 - 📫 How to reach me: cosmin2507@yahoo.com // https://www.linkedin.com/in/cosmin-cozma/
 
 <!---
